@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\学习\线程池\bin\Debug\线程池.exe.config
+C:\Users\Administrator\source\repos\学习\线程池\bin\Debug\线程池.exe
+C:\Users\Administrator\source\repos\学习\线程池\bin\Debug\线程池.pdb
+C:\Users\Administrator\source\repos\学习\线程池\obj\Debug\线程池.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\线程池\obj\Debug\线程池.exe
+C:\Users\Administrator\source\repos\学习\线程池\obj\Debug\线程池.pdb

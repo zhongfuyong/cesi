@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\学习\线程问题  争用条件\bin\Debug\线程问题  争用条件.exe.config
+C:\Users\Administrator\source\repos\学习\线程问题  争用条件\bin\Debug\线程问题  争用条件.exe
+C:\Users\Administrator\source\repos\学习\线程问题  争用条件\bin\Debug\线程问题  争用条件.pdb
+C:\Users\Administrator\source\repos\学习\线程问题  争用条件\obj\Debug\线程问题  争用条件.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\学习\线程问题  争用条件\obj\Debug\线程问题  争用条件.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\线程问题  争用条件\obj\Debug\线程问题  争用条件.exe
+C:\Users\Administrator\source\repos\学习\线程问题  争用条件\obj\Debug\线程问题  争用条件.pdb

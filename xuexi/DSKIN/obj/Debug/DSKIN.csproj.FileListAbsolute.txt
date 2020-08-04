@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\学习\DSKIN\bin\Debug\DSKIN.exe.config
+C:\Users\Administrator\source\repos\学习\DSKIN\bin\Debug\DSKIN.exe
+C:\Users\Administrator\source\repos\学习\DSKIN\bin\Debug\DSKIN.pdb
+C:\Users\Administrator\source\repos\学习\DSKIN\obj\Debug\DSKIN.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\学习\DSKIN\obj\Debug\DSKIN.Form1.resources
+C:\Users\Administrator\source\repos\学习\DSKIN\obj\Debug\DSKIN.Properties.Resources.resources
+C:\Users\Administrator\source\repos\学习\DSKIN\obj\Debug\DSKIN.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\学习\DSKIN\obj\Debug\DSKIN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\DSKIN\obj\Debug\DSKIN.exe
+C:\Users\Administrator\source\repos\学习\DSKIN\obj\Debug\DSKIN.pdb
+C:\Users\Administrator\source\repos\学习\DSKIN\bin\Debug\CSkin.dll
+C:\Users\Administrator\source\repos\学习\DSKIN\bin\Debug\CSkin.xml
+C:\Users\Administrator\source\repos\学习\DSKIN\obj\Debug\DSKIN.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\学习\XML\bin\Debug\XML.exe.config
+C:\Users\Administrator\source\repos\学习\XML\bin\Debug\XML.exe
+C:\Users\Administrator\source\repos\学习\XML\bin\Debug\XML.pdb
+C:\Users\Administrator\source\repos\学习\XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\学习\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\XML\obj\Debug\XML.exe
+C:\Users\Administrator\source\repos\学习\XML\obj\Debug\XML.pdb
+C:\Users\Administrator\source\repos\学习\XML\bin\Debug\skillinfo.txt

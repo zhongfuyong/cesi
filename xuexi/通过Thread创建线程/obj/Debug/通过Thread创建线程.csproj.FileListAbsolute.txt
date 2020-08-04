@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\学习\通过Thread创建线程\bin\Debug\通过Thread创建线程.exe.config
+C:\Users\Administrator\source\repos\学习\通过Thread创建线程\bin\Debug\通过Thread创建线程.exe
+C:\Users\Administrator\source\repos\学习\通过Thread创建线程\bin\Debug\通过Thread创建线程.pdb
+C:\Users\Administrator\source\repos\学习\通过Thread创建线程\obj\Debug\通过Thread创建线程.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\通过Thread创建线程\obj\Debug\通过Thread创建线程.exe
+C:\Users\Administrator\source\repos\学习\通过Thread创建线程\obj\Debug\通过Thread创建线程.pdb

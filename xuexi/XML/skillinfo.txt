@@ -1,0 +1,17 @@
+﻿<skills>
+	<skill>
+		<id>2</id>
+		<name lang="cn">技能</name>
+		<damage>123</damage>
+	</skill>
+	<skill>
+		<id>3</id>
+		<name lang="cn">技能2</name>
+		<damage>321</damage>
+	</skill>
+	<skill>
+		<id>4</id>
+		<name lang="en">xx2</name>
+		<damage>321</damage>
+	</skill>
+</skills>

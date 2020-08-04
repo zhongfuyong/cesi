@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\学习\创建Graphics对象和Pan对象2\bin\Debug\创建Graphics对象和Pan对象2.exe.config
+C:\Users\Administrator\source\repos\学习\创建Graphics对象和Pan对象2\bin\Debug\创建Graphics对象和Pan对象2.exe
+C:\Users\Administrator\source\repos\学习\创建Graphics对象和Pan对象2\bin\Debug\创建Graphics对象和Pan对象2.pdb
+C:\Users\Administrator\source\repos\学习\创建Graphics对象和Pan对象2\obj\Debug\创建Graphics对象和Pan对象.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\学习\创建Graphics对象和Pan对象2\obj\Debug\创建Graphics对象和Pan对象2.Form1.resources
+C:\Users\Administrator\source\repos\学习\创建Graphics对象和Pan对象2\obj\Debug\创建Graphics对象和Pan对象2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\学习\创建Graphics对象和Pan对象2\obj\Debug\创建Graphics对象和Pan对象.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\学习\创建Graphics对象和Pan对象2\obj\Debug\创建Graphics对象和Pan对象.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\创建Graphics对象和Pan对象2\obj\Debug\创建Graphics对象和Pan对象2.exe
+C:\Users\Administrator\source\repos\学习\创建Graphics对象和Pan对象2\obj\Debug\创建Graphics对象和Pan对象2.pdb

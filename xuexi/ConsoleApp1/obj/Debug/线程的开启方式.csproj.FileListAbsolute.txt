@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\学习\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Administrator\source\repos\学习\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Administrator\source\repos\学习\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\source\repos\学习\ConsoleApp1\obj\Debug\线程的开启方式.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Administrator\source\repos\学习\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

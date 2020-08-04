@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\学习\页面设置\bin\Debug\页面设置.exe.config
+C:\Users\Administrator\source\repos\学习\页面设置\bin\Debug\页面设置.exe
+C:\Users\Administrator\source\repos\学习\页面设置\bin\Debug\页面设置.pdb
+C:\Users\Administrator\source\repos\学习\页面设置\obj\Debug\页面设置.Form1.resources
+C:\Users\Administrator\source\repos\学习\页面设置\obj\Debug\页面设置.Properties.Resources.resources
+C:\Users\Administrator\source\repos\学习\页面设置\obj\Debug\打印.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\学习\页面设置\obj\Debug\打印.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\页面设置\obj\Debug\页面设置.exe
+C:\Users\Administrator\source\repos\学习\页面设置\obj\Debug\页面设置.pdb

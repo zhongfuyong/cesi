@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\学习\表格数据控件\bin\Debug\表格数据控件.exe.config
+C:\Users\Administrator\source\repos\学习\表格数据控件\bin\Debug\表格数据控件.exe
+C:\Users\Administrator\source\repos\学习\表格数据控件\bin\Debug\表格数据控件.pdb
+C:\Users\Administrator\source\repos\学习\表格数据控件\obj\Debug\表格数据控件.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\学习\表格数据控件\obj\Debug\表格数据控件.Form1.resources
+C:\Users\Administrator\source\repos\学习\表格数据控件\obj\Debug\表格数据控件.Properties.Resources.resources
+C:\Users\Administrator\source\repos\学习\表格数据控件\obj\Debug\表格数据控件.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\学习\表格数据控件\obj\Debug\表格数据控件.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\表格数据控件\obj\Debug\表格数据控件.exe
+C:\Users\Administrator\source\repos\学习\表格数据控件\obj\Debug\表格数据控件.pdb

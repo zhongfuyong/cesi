@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\学习\ArrayList类\bin\Debug\ArrayList类.exe.config
+C:\Users\Administrator\source\repos\学习\ArrayList类\bin\Debug\ArrayList类.exe
+C:\Users\Administrator\source\repos\学习\ArrayList类\bin\Debug\ArrayList类.pdb
+C:\Users\Administrator\source\repos\学习\ArrayList类\obj\Debug\ArrayList类.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\学习\ArrayList类\obj\Debug\ArrayList类.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\ArrayList类\obj\Debug\ArrayList类.exe
+C:\Users\Administrator\source\repos\学习\ArrayList类\obj\Debug\ArrayList类.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\学习\后台线程和前台线程\bin\Debug\后台线程和前台线程.exe.config
+C:\Users\Administrator\source\repos\学习\后台线程和前台线程\bin\Debug\后台线程和前台线程.exe
+C:\Users\Administrator\source\repos\学习\后台线程和前台线程\bin\Debug\后台线程和前台线程.pdb
+C:\Users\Administrator\source\repos\学习\后台线程和前台线程\obj\Debug\后台线程和前台线程.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\学习\后台线程和前台线程\obj\Debug\后台线程和前台线程.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\学习\后台线程和前台线程\obj\Debug\后台线程和前台线程.exe
+C:\Users\Administrator\source\repos\学习\后台线程和前台线程\obj\Debug\后台线程和前台线程.pdb
