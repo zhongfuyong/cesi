@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\xuexi\OPC\obj\Debug\OPC.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\xuexi\OPC\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Administrator\source\repos\xuexi\OPC\obj\Debug\OPC.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\xuexi\OPC\obj\Debug\OPC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\xuexi\OPC\bin\Debug\OPC.exe.config
+C:\Users\Administrator\source\repos\xuexi\OPC\bin\Debug\OPC.exe
+C:\Users\Administrator\source\repos\xuexi\OPC\bin\Debug\OPC.pdb
+C:\Users\Administrator\source\repos\xuexi\OPC\obj\Debug\OPC.exe
+C:\Users\Administrator\source\repos\xuexi\OPC\obj\Debug\OPC.pdb
