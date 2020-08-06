@@ -26,5 +26,20 @@ namespace HZHControls
             fw.Title = "xxx";
             fw.Show();
         }
+
+        private void gifBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void skinCode1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void skinFileTransfersItem1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

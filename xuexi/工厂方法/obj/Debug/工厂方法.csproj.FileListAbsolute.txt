@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\xuexi\工厂方法\bin\Debug\工厂方法.exe.config
+C:\Users\Administrator\source\repos\xuexi\工厂方法\bin\Debug\工厂方法.exe
+C:\Users\Administrator\source\repos\xuexi\工厂方法\bin\Debug\工厂方法.pdb
+C:\Users\Administrator\source\repos\xuexi\工厂方法\obj\Debug\工厂方法.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\xuexi\工厂方法\obj\Debug\工厂方法.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\xuexi\工厂方法\obj\Debug\工厂方法.exe
+C:\Users\Administrator\source\repos\xuexi\工厂方法\obj\Debug\工厂方法.pdb

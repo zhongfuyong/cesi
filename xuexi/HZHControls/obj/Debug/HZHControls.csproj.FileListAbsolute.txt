@@ -25,3 +25,5 @@ C:\Users\Administrator\source\repos\xuexi\HZHControls\obj\Debug\HZHControls.cspr
 C:\Users\Administrator\source\repos\xuexi\HZHControls\obj\Debug\HZHControls.csproj.CopyComplete
 C:\Users\Administrator\source\repos\xuexi\HZHControls\obj\Debug\HZHControls.exe
 C:\Users\Administrator\source\repos\xuexi\HZHControls\obj\Debug\HZHControls.pdb
+C:\Users\Administrator\source\repos\xuexi\HZHControls\bin\Debug\CSkin.dll
+C:\Users\Administrator\source\repos\xuexi\HZHControls\bin\Debug\CSkin.xml
