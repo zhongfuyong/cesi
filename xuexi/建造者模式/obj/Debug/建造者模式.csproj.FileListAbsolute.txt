@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\xuexi\建造者模式\bin\Debug\建造者模式.exe.config
+C:\Users\Administrator\source\repos\xuexi\建造者模式\bin\Debug\建造者模式.exe
+C:\Users\Administrator\source\repos\xuexi\建造者模式\bin\Debug\建造者模式.pdb
+C:\Users\Administrator\source\repos\xuexi\建造者模式\obj\Debug\建造者模式.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\xuexi\建造者模式\obj\Debug\建造者模式.exe
+C:\Users\Administrator\source\repos\xuexi\建造者模式\obj\Debug\建造者模式.pdb
+C:\Users\Administrator\source\repos\xuexi\建造者模式\obj\Debug\建造者模式.csprojAssemblyReference.cache
