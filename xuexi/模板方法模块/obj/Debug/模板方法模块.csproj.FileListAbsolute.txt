@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\xuexi\模板方法模块\bin\Debug\模板方法模块.exe.config
+C:\Users\Administrator\source\repos\xuexi\模板方法模块\bin\Debug\模板方法模块.exe
+C:\Users\Administrator\source\repos\xuexi\模板方法模块\bin\Debug\模板方法模块.pdb
+C:\Users\Administrator\source\repos\xuexi\模板方法模块\obj\Debug\模板方法模块.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\xuexi\模板方法模块\obj\Debug\模板方法模块.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\xuexi\模板方法模块\obj\Debug\模板方法模块.exe
+C:\Users\Administrator\source\repos\xuexi\模板方法模块\obj\Debug\模板方法模块.pdb

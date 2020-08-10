@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\xuexi\组合模式\bin\Debug\组合模式.exe.config
+C:\Users\Administrator\source\repos\xuexi\组合模式\bin\Debug\组合模式.exe
+C:\Users\Administrator\source\repos\xuexi\组合模式\bin\Debug\组合模式.pdb
+C:\Users\Administrator\source\repos\xuexi\组合模式\obj\Debug\组合模式.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\xuexi\组合模式\obj\Debug\组合模式.exe
+C:\Users\Administrator\source\repos\xuexi\组合模式\obj\Debug\组合模式.pdb
