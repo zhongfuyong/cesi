@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\xuexi\Dapper\bin\Debug\Dapper.dll
+C:\Users\Administrator\source\repos\xuexi\Dapper\bin\Debug\Dapper.xml
+C:\Users\Administrator\source\repos\xuexi\Dapper\obj\Debug\Dapper.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\xuexi\Dapper\obj\Debug\Dapper.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\xuexi\Dapper\obj\Debug\Dapper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\xuexi\Dapper\obj\Debug\Dapper.csproj.CopyComplete
+C:\Users\Administrator\source\repos\xuexi\Dapper\bin\Debug\Dapper.Mapper.dll
+C:\Users\Administrator\source\repos\xuexi\Dapper\obj\Debug\dapperssss.Form1.resources
+C:\Users\Administrator\source\repos\xuexi\Dapper\bin\Debug\dapperssss.exe.config
+C:\Users\Administrator\source\repos\xuexi\Dapper\bin\Debug\dapperssss.exe
+C:\Users\Administrator\source\repos\xuexi\Dapper\bin\Debug\dapperssss.pdb
+C:\Users\Administrator\source\repos\xuexi\Dapper\obj\Debug\dapperssss.Properties.Resources.resources
+C:\Users\Administrator\source\repos\xuexi\Dapper\obj\Debug\dapperssss.exe
+C:\Users\Administrator\source\repos\xuexi\Dapper\obj\Debug\dapperssss.pdb
