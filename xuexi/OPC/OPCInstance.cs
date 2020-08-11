@@ -36,9 +36,6 @@ namespace OPC
 
                 //订阅组Datechange事件
                 Group.DataChange += Group_DataChange;
-
-
-
             }
             Console.ReadKey();
             }

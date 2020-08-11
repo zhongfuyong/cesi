@@ -8,8 +8,14 @@ namespace JSON
 {
     class Skill
     {
-        public int Id { get; set; }
-        public int Name { get; set; }
-        public int Damage { get; set; }
+        public int id; 
+        public int damage; 
+        public string name;
+
+
+        public override string ToString() 
+        {
+            return string.Format("Id:{0}, Damage:{1}, Name:{2}", id, damage, name);
+        }
     }
 }

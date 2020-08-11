@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\xuexi\服务\bin\Debug\服务.exe.config
+C:\Users\Administrator\source\repos\xuexi\服务\bin\Debug\服务.exe
+C:\Users\Administrator\source\repos\xuexi\服务\bin\Debug\服务.pdb
+C:\Users\Administrator\source\repos\xuexi\服务\obj\Debug\服务.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\xuexi\服务\obj\Debug\服务.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\xuexi\服务\obj\Debug\服务.exe
+C:\Users\Administrator\source\repos\xuexi\服务\obj\Debug\服务.pdb
+C:\Users\Administrator\source\repos\xuexi\服务\obj\Debug\服务.ProjectInstaller.resources
+C:\Users\Administrator\source\repos\xuexi\服务\obj\Debug\服务.csproj.GenerateResource.cache

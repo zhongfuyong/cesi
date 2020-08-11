@@ -83,11 +83,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Desktop\新建文件夹 %282%29\NetWinformControl-master\HZH_Controls\HZH_Controls\HZH_Controls.csproj">
-      <Project>{AF32E163-C577-4CBC-A072-0DC1CE0E1DA3}</Project>
-      <Name>HZH_Controls</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
